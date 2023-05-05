@@ -1,0 +1,4 @@
+healpy
+pandas
+numpy
+scipy
