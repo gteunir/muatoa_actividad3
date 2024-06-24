@@ -2,3 +2,4 @@ healpy
 pandas
 numpy
 scipy
+matplotlib
